@@ -8,5 +8,6 @@ https://www.bnext.com.tw/article/45216/blockchain-iot-decentralized
 http://www.tmtpost.com/3299648.html
 https://startuplatte.com/2018/06/07/decentralization_edge_computing/
 
+
 ### 智能合約
 https://medium.com/hackoin-taiwan
