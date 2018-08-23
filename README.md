@@ -16,3 +16,6 @@ https://medium.com/@erik.huckle/iot-on-the-edge-of-the-blockchain-the-new-buzzwo
 
 ### 智能合約
 https://medium.com/hackoin-taiwan
+
+### Hyperledger Fabric
+https://www.ibm.com/developerworks/cn/cloud/library/cl-lo-hyperledger-fabric-study-notes3/index.html
