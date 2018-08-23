@@ -28,3 +28,6 @@ http://as93717913.pixnet.net/blog/post/338665282-%E5%8D%80%E5%A1%8A%E9%8D%8A-hyp
 ## Flow-Chian
 
 http://www.jollen.org/blog/2017/10/devify-aiotas-isca-toronto-canada-june-2017.html
+
+## Edge computing
+https://www.bnext.com.tw/article/45216/blockchain-iot-decentralized
