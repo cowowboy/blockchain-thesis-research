@@ -22,3 +22,7 @@ https://medium.com/hackoin-taiwan
 https://www.ibm.com/developerworks/cn/cloud/library/cl-lo-hyperledger-fabric-study-notes3/index.html
 
 https://hk.saowen.com/a/53d4367bda2f9cb60e02e5d7c70624a7ac38b596985da84e9d043af75b967f3e
+
+## Flow-Chian
+
+http://www.jollen.org/blog/2017/10/devify-aiotas-isca-toronto-canada-june-2017.html
